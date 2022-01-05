@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IjtabaSajjan
+- 👋 Sup, I’m @IjtabaSajjan
 - 👀 I’m interested in Kali Linux
 - 🌱 I’m currently learning Linux Commands
 - 📫 How to reach me Email - ijtabsajjan@gmail.com

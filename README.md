@@ -2,4 +2,4 @@
 - 👀 I’m interested in Kali Linux
 - 🌱 I’m currently learning Linux Commands
 - 📫 How to reach me Email - ijtabsajjan@gmail.com
-- ✔  Discord - AZLAN...?#7163
+- ✔  Discord - azlan.exe#8821
